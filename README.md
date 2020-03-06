@@ -1,4 +1,5 @@
 # Stratum proxy
+# Reborn 2020
 * Support for different mining algorithms through one port.
 * Support for mining by several workers for 1 account.
 * Counters of shares for each worker, user, pool and algorithm.
